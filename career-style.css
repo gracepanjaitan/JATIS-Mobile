@@ -1,0 +1,315 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.header-2-1 .navbar-light .navbar-nav .nav-link {
+  font: 300 18px/1.5rem Poppins, sans-serif;
+  color: #1d1e3c;
+  transition: 0.3s;
+}
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+
+  .text {
+    font-size: 20px;
+    line-height: 2rem;
+  }
+}
+@media (max-width: 991.98px) {
+  .text {
+    font-size: 1.1875rem;
+  }
+}
+
+.min-vh-100 {
+  min-height: 100vh !important;
+}
+
+.d-flex {
+  display: flex !important;
+}
+.navbar-nav {
+  color: #5d5d5d;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.nav-item {
+  padding-left: 20px;
+  margin-left: 7px;
+}
+
+.text {
+  width: 674px;
+  margin: 139px 146px 28px 10px;
+  padding: 0 50px;
+  object-fit: contain;
+  font-family: Poppins;
+  font-size: 50px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.13;
+  letter-spacing: normal;
+  text-align: left;
+  color: #0f0358;
+}
+
+.text2 {
+  width: 682px;
+  height: 200px;
+  margin: 0px 146px 234px 10px;
+  padding: 0 55px;
+  object-fit: contain;
+  font-family: Poppins;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  font-size: 20px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #0f0358;
+}
+
+.Mask-Group-29 {
+  width: 674px;
+  height: 674px;
+  margin: 132px 213px 227px 138px;
+}
+
+.image-group {
+  height: 794.6px;
+  margin: 50px 0 98.4px;
+  padding: 57px 0px 186.6px;
+  object-fit: contain;
+}
+.navbar-brand {
+  position: relative;
+  left: 2%;
+  margin-left: 20px !important; /* 50% of your logo width */
+  display: block;
+}
+
+img.Group-911 {
+  width: 1920px;
+  height: 794.6px;
+  margin: 227px 0 98.4px;
+  padding: 57px 278px 186.6px;
+  object-fit: contain;
+}
+
+.Core-Values {
+  width: 484px;
+  height: 89px;
+  margin: 0 42px 74px;
+  object-fit: contain;
+  font-family: Poppins;
+  font-size: 55px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.16;
+  letter-spacing: normal;
+  text-align: center;
+  color: #0f0358;
+}
+
+.Job-vacancies {
+  width: 484px;
+  height: 89px;
+  margin: 0 42px 74px;
+  object-fit: contain;
+  font-family: Poppins;
+  font-size: 55px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.16;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+.our-events {
+  width: 318px;
+  height: 89px;
+  margin: 98.4px 125px 74px 263px;
+  font-family: Poppins;
+  font-size: 55px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.16;
+  letter-spacing: normal;
+  text-align: center;
+  color: #0f0358;
+}
+
+.Rectangle-556 {
+  height: 950px;
+  margin: 150px 0 192px;
+  padding: 100px 140px 100px;
+  object-fit: contain;
+  background-color: #ff6c20;
+}
+
+.card {
+  width: 400px;
+  height: 200px;
+  margin: 74px 16px 16px 0;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+.text-signup {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #707070;
+}
+
+a {
+  text-decoration: underline;
+  text-decoration: none;
+}
+
+.core {
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 92px;
+}
+
+.pic-7 {
+  width: 620px;
+  height: 320px;
+  margin: 74px 0 10px -60px;
+  object-fit: contain;
+}
+
+.pic-9 {
+  width: 530px;
+  height: 430px;
+  margin: 18px 16px 16px -120px;
+  object-fit: contain;
+}
+
+.pic-10 {
+  width: 620px;
+  height: 315px;
+  margin: 74px 16px 0px 103px;
+  object-fit: contain;
+}
+
+.pic-11 {
+  width: 640px;
+  height: 370px;
+  margin: -90px 0 0px 90px;
+  object-fit: contain;
+}
+
+.pic-8 {
+  width: 360px;
+  height: 310px;
+  margin: -60px 16px 0px 290px;
+  object-fit: contain;
+}
+
+.pic-6 {
+  width: 610px;
+  height: 310px;
+  margin: -60px 10px 180px 50px;
+  object-fit: contain;
+}
+
+.btn-core {
+  margin-right: -10px;
+  width: 130px;
+  height: 130px;
+  border-radius: 20px;
+  background-color: #fff;
+  border-color: #dadada;
+  margin-right: 40px;
+}
+
+.Sportif {
+  font-family: Poppins;
+  font-size: 92px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--pumpkin-orange);
+  color: #dadada;
+}
+.active {
+  background-color: green !important;
+}
+
+.btn-primary {
+  margin-right: -10px;
+  width: 130px;
+  height: 130px;
+  border-radius: 20px;
+  background-color: #fff;
+  border-color: #c9abab;
+  margin-right: 40px;
+}
+
+.btn-primary:active .btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  margin-right: -10px;
+  width: 130px;
+  height: 130px;
+  border-radius: 20px;
+  background-color: var(--pumpkin-orange);
+  border-color: var(--pumpkin-orange);
+  margin-right: 40px;
+}
+
+.text-s {
+  height: 126px;
+  object-fit: contain;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.46;
+  letter-spacing: normal;
+  text-align: center;
+  color: #0f0358;
+}
+
+.text-s-1 {
+  object-fit: contain;
+  font-family: Poppins;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.46;
+  letter-spacing: normal;
+  text-align: center;
+  color: #0f0358;
+}
+
+.navbar-container {
+  position: relative;
+}
